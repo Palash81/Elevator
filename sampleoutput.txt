@@ -1,0 +1,120 @@
+        ***Welcome To Elevator Program***          
+-------------------------------------------------
+Enter the Floor Number You Wish to Travel [1-10]: 6
+Enter the Number of people : 2
+
+Pling .................at floor : 1
+ElevatorUpword : 
+[TravelerID: 13 ] 
+
+inElevator : 
+[] 
+
+ElevatorDownword : 
+[TravelerID: 14 ] 
+
+
+Pling .................at floor : 2
+ElevatorUpword : 
+[TravelerID: 13 ] 
+
+inElevator : 
+[] 
+
+ElevatorDownword : 
+[TravelerID: 14 ] 
+
+
+Pling .................at floor : 3
+Elevator Door Opened
+Taking in : TravelerID: 13 at floor : 3
+Elevator Door Closed
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[TravelerID: 13 ] 
+
+ElevatorDownword : 
+[TravelerID: 14 ] 
+
+
+Pling .................at floor : 4
+Elevator Door Opened
+Person : TravelerID: 13  ::::::TRAVELER LEAVING ELEVATOR ::::::
+Thread : TravelerID: 13  ::::::ELEVATOR IS WALKING UP ::::::
+Elevator Door Closed
+End of thread : TravelerID: 13
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[] 
+
+ElevatorDownword : 
+[TravelerID: 14 ] 
+
+
+Pling .................at floor : 5
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[] 
+
+Downword : 
+[TravelerID: 14 ] 
+
+
+Pling .................at floor : 6
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[] 
+
+Downword : 
+[TravelerID: 14 ] 
+
+
+Pling .................at floor : 6
+Elevator Door Opened
+Taking in : TravelerID: 14 at floor : 6
+Elevator Door Closed
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[TravelerID: 14 ] 
+
+ElevatorDownword : 
+[] 
+
+
+Pling .................at floor : 5
+Elevator Door Closed
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[TravelerID: 14 ] 
+
+ElevatorDownword : 
+[] 
+
+
+Pling .................at floor : 4
+Elevator Door Opened
+Person : TravelerID: 14  ::::::TRAVELER LEAVING ELEVATOR ::::::
+Thread : TravelerID: 14  ::::::ELEVATOR IS WALKING UP ::::::
+Elevator Door Closed
+ElevatorUpword : 
+[] 
+
+inElevator : 
+[] 
+
+ElevatorDownword : 
+[] 
+
+End of thread : TravelerID: 14
